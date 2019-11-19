@@ -6,11 +6,11 @@
 
 ## Description
 
-_This is a webpage that uses CSS to make the most horrifically boring lecture in existence. We had a lot of fun making it as bad as we possibly could!_
+_This is a webpage that uses CSS to make a pirate-themed cupcake shop. Enter if ye dare!_
 
 ## Setup/Installation Requirements
 
-* _Use this link [ https://m00ndrag0n.github.io/Worst-Lecture-EVER/ ] to access the global version of the Boring Lecture Project._
+* _Use this link [ https://m00ndrag0n.github.io/Worst-Lecture-EVER/ ] to access the global version of the Cupcake Project._
 * _Make sure the "coffee stain" is lined up by messing with the screen size._
 * _If your eyes bleed, take some Aspirin._
 
